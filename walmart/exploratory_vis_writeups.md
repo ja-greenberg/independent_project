@@ -1,12 +1,12 @@
 **vis1: Total weekly sales over time line chart**
 
-The two most prominent sales spikes each year occur around Thanksgiving/Black Friday and Christmas, with the late November week consistently producing the highest sales across the entire dataset -- peaking near $80M in 2011. Outside of those holiday surges, weekly sales remain relatively flat in the $40M-$50M range, suggesting that overall demand is stable and the big swings are almost entirely holiday-driven. Super Bowl and Labor Day weeks show little visible impact compared to the year-end holidays.
+The two most prominent sale spikes each year occur around Thanksgiving/Black Friday and Christmas, with the late November week consistently producing the highest sales across the entire dataset peaking near $80M in 2011. Outside of those holiday surges, weekly sales remain relatively flat in the $40M-$50M range, suggesting that overall demand is stable and the big swings are almost entirely holiday-driven. Super Bowl and Labor Day weeks show little visible impact compared to the year-end holidays.
 
 
 
 **vis2: Average sales by month bar chart**
 
-December is the peak month with \~1.3M average in weekly sales. Closely followed by November with \~1.15M. Both of these months are driven by the holiday season. The remaining months clusers between 0.9M and 1.10M, with January being the weakest month by far, which I am guessing is people watching their wallets after holiday spending. June was the third highest which may point to spending in preparation for summer, or summer vacations.
+December is the peak month with \~1.3M average in weekly sales. Closely followed by November with \~1.15M. Both of these months are driven by the holiday season. The remaining months clusers between 0.9M and 1.10M, with January being the weakest month by far, which I am guessing is people watching their wallets after holiday spending. June was the third highest which may point to spending in preparation for summer, or summer vacations. But it isn't ahead of the pack by much so I'm taking it with a grain of salt.
 
 
 
@@ -36,5 +36,5 @@ All four scatter plots reinforce the heatmap findings. Trend lines are nearly fl
 
 **vis7: Year-over-year comparison line chart**
 
-All three years show extremely similar patterns. We see spikes at the expected time periods, supporting the findings in vis1. We see possible minor year-over-year growth in 2012 but nothing substantial. Unfortunately, the data cuts off in Oct 2012 so we don't get to see the final year's holiday season.
+All three years show extremely similar patterns. We see spikes at the expected time periods, supporting the findings in vis1. We see possible minor year-over-year growth in 2012 but nothing substantial. Unfortunately, the data cuts off in Oct 2012 so we don't get to see the final year's holiday season. Not a ton to be gained here.
 

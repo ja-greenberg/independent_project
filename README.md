@@ -14,7 +14,6 @@ Walmart:
 Run linear regression on the economic features and the time based features to test how well those variables predict sales. Store level analysis on why the top 10 and bottom 10 stores perform so differently. 
 
 Amazon:
----
 
 ## Objectives
 - Identify research questions to analyze using the cleaned data

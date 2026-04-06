@@ -11,12 +11,15 @@ The second stage focused on exploratory data analysis through visualizations. Fo
 
 ## Current Focus
 Walmart:
-Run linear regression on the economic features and the time based features to test how well those variables predict sales. Store level analysis on why the top 10 and bottom 10 stores perform so differently. 
+Run linear regression on the economic features and the time based features to test how well those variables predict sales. 
+Store level analysis on why the top 10 and bottom 10 stores perform so differently. 
 
 Amazon:
 
 ## Objectives
-- Identify research questions to analyze using the cleaned data
+- Walmart:
+- Answer the question, "What separates Walmart's best stores from its worst, and can we predict it?"
+
 - Decide whether to focus on one dataset and abandon the other, create two separate case studies, or analyze them separately while creating a broader story about different aspects of retail
 
 ## Completed Objectives

@@ -121,5 +121,3 @@ print(pd.DataFrame({
 # Holiday responsiveness varies widely across stores. Top 10 see a positive holiday bump, but the bottom 10 are inconsistent. However, with only 10 holiday datapoints per store it is hard to draw strong conclusions.
 # More importantly, holiday sales rankings nearly perfectly mirror overall sales rankings for both groups, meaning holidays are amplifying existing performance rather than reshuffling.
 # This suggests holiday performance is a reflection of overall performance. Improving non-holiday sales should be the primary focus, and holiday sales will improve in turn.
-
-# CPI and unemployment 

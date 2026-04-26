@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import seaborn as sns
+from pathlib import Path
 
 sns.set_style("whitegrid")
 palette = sns.color_palette("muted")
@@ -42,9 +43,6 @@ store_performance = df.groupby("Store").agg(
 )
 
 store_performance["Sales_per_SqFt"] = store_performance["Avg_Weekly_Sales"] / store_performance["Size"]
-
-# Save enriched stores data
-store_performance[["Type", "Size", "Avg_Weekly_Sales", "Sales_per_SqFt"]].reset_index().to_csv("walmart/data/stores.csv", index=False)
 
 # Top and bottom 3 performers within each type
 for store_type in ["A", "B", "C"]:
